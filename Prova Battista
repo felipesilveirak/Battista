@@ -1,0 +1,8 @@
+-nome: Felipe Silveira String
+-preco: 80  double
+
+   +get Nome(Felipe_Silveira): String
+   + set Nome (Felipe_Silveira) : void
+   +get Preco (80): Double 
+   +set Preco (doub preco): void
+   +to String() String
